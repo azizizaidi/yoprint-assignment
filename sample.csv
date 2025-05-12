@@ -1,0 +1,4 @@
+UNIQUE_KEY,PRODUCT_TITLE,PRODUCT_DESCRIPTION,STYLE#,SANMAR_MAINFRAME_COLOR,SIZE,COLOR_NAME,PIECE_PRICE
+SKU123,Classic T-Shirt,"Comfortable cotton t-shirt",TS100,Red,L,Crimson,19.90
+SKU124,Polo Shirt,"Premium polo with collar",PO200,Blue,M,Navy,29.50
+SKU125,Hoodie,"Fleece hoodie with front pocket",HD300,Black,XL,Jet Black,49.99
